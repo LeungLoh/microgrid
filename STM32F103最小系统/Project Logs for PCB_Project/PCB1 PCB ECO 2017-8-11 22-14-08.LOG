@@ -1,0 +1,88 @@
+Added Component: Designator=C1(CAP)
+Added Component: Designator=C2(CAP)
+Added Component: Designator=OLED(HDR1X6)
+Added Component: Designator=PADC(HDR2X5)
+Added Component: Designator=PGND(HDR2X4)
+Added Component: Designator=PWM(HDR2X4)
+Added Component: Designator=R1(RES)
+Added Component: Designator=U1IN(HDR1X2)
+Added Component: Designator=U1(SFM-T3/A4.7V)
+Added Component: Designator=²¶»ñ(HDR2X3)
+Added Component: Designator=À¶ÑÀ(HDR1X6)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=OLED-1
+Added Pin To Net: NetName=VCC Pin=OLED-2
+Added Pin To Net: NetName=PA4 Pin=OLED-3
+Added Pin To Net: NetName=PA6 Pin=OLED-5
+Added Pin To Net: NetName=PA0 Pin=PADC-1
+Added Pin To Net: NetName=PA1 Pin=PADC-3
+Added Pin To Net: NetName=PA2 Pin=PADC-5
+Added Pin To Net: NetName=PA3 Pin=PADC-7
+Added Pin To Net: NetName=GND Pin=PADC-9
+Added Pin To Net: NetName=GND Pin=PADC-10
+Added Pin To Net: NetName=GND Pin=PGND-1
+Added Pin To Net: NetName=GND Pin=PGND-2
+Added Pin To Net: NetName=GND Pin=PGND-3
+Added Pin To Net: NetName=GND Pin=PGND-4
+Added Pin To Net: NetName=GND Pin=PGND-5
+Added Pin To Net: NetName=GND Pin=PGND-6
+Added Pin To Net: NetName=GND Pin=PGND-7
+Added Pin To Net: NetName=GND Pin=PGND-8
+Added Pin To Net: NetName=PA7 Pin=PWM-1
+Added Pin To Net: NetName=PB0 Pin=PWM-3
+Added Pin To Net: NetName=PB1 Pin=PWM-5
+Added Pin To Net: NetName=GND Pin=PWM-7
+Added Pin To Net: NetName=GND Pin=PWM-8
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=NetP4_1 Pin=STM32-15
+Added Pin To Net: NetName=NetP3_1 Pin=STM32-16
+Added Pin To Net: NetName=NetP2_1 Pin=STM32-17
+Added Pin To Net: NetName=NetP1_1 Pin=STM32-24
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1IN-1
+Added Pin To Net: NetName=PA1 Pin=²¶»ñ-1
+Added Pin To Net: NetName=PA2 Pin=²¶»ñ-3
+Added Pin To Net: NetName=GND Pin=²¶»ñ-5
+Added Pin To Net: NetName=GND Pin=²¶»ñ-6
+Added Pin To Net: NetName=VCC Pin=À¶ÑÀ-2
+Added Pin To Net: NetName=GND Pin=À¶ÑÀ-3
+Added Pin To Net: NetName=PA10 Pin=À¶ÑÀ-4
+Added Pin To Net: NetName=PA9 Pin=À¶ÑÀ-5
+Change Net Name : Old Net Name=NetP1_1 New Net Name=PC15
+Change Net Name : Old Net Name=NetP2_1 New Net Name=PB9
+Change Net Name : Old Net Name=NetP3_1 New Net Name=PB8
+Change Net Name : Old Net Name=NetP4_1 New Net Name=PB7
+Added Pin To Net: NetName=3.3V Pin=STM32-20
+Added Pin To Net: NetName=3.3V Pin=STM32-38
+Added Net: Name=3.3V
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=C2-2
+Added Pin To Net: NetName=NetC1_2 Pin=R1-1
+Added Pin To Net: NetName=NetC1_2 Pin=U1-3
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetU1_1 Pin=U1-1
+Added Pin To Net: NetName=NetU1_1 Pin=U1IN-2
+Added Net: Name=NetU1_1
+Added Pin To Net: NetName=PA5 Pin=OLED-4
+Added Pin To Net: NetName=PA5 Pin=STM32-30
+Added Net: Name=PA5
+Added Pin To Net: NetName=PA8 Pin=OLED-6
+Added Pin To Net: NetName=PA8 Pin=STM32-5
+Added Net: Name=PA8
+Added Pin To Net: NetName=PA11 Pin=STM32-8
+Added Net: Name=PA11
+Added Pin To Net: NetName=PA12 Pin=STM32-9
+Added Net: Name=PA12
+Added Member To Class: ClassName=Sheet1 Member=Component C1 220
+Added Member To Class: ClassName=Sheet1 Member=Component C2 0.1
+Added Member To Class: ClassName=Sheet1 Member=Component OLED Header 6
+Added Member To Class: ClassName=Sheet1 Member=Component PADC Header 5X2
+Added Member To Class: ClassName=Sheet1 Member=Component PGND Header 4X2
+Added Member To Class: ClassName=Sheet1 Member=Component PWM Header 4X2
+Added Member To Class: ClassName=Sheet1 Member=Component R1 10
+Added Member To Class: ClassName=Sheet1 Member=Component U1IN Header 2
+Added Member To Class: ClassName=Sheet1 Member=Component U1 7805
+Added Member To Class: ClassName=Sheet1 Member=Component ²¶»ñ Header 3X2
+Added Member To Class: ClassName=Sheet1 Member=Component À¶ÑÀ Header 6
+Added Room: Name=Sheet1

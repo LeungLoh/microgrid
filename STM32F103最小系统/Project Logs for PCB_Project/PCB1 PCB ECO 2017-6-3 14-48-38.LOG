@@ -1,0 +1,117 @@
+Added Component: Designator=P1(HDR1X3)
+Added Component: Designator=P2(HDR1X3)
+Added Component: Designator=P3(HDR1X3)
+Added Component: Designator=P4(HDR1X3)
+Added Component: Designator=P5(HDR1X3)
+Added Component: Designator=P6(HDR1X3)
+Added Component: Designator=p7(HDR1X6)
+Added Component: Designator=p8(HDR2X4)
+Added Component: Designator=P9(HDR1X2)
+Added Component: Designator=P10(HDR1X2)
+Added Component: Designator=P11(HDR1X4)
+Added Component: Designator=P12(HDR1X4)
+Added Component: Designator=P13(HDR1X2)
+Added Component: Designator=P14(HDR1X2)
+Added Component: Designator=P15(HDR1X2)
+Added Component: Designator=STM32(PCBComponent_1)
+Added Pin To Net: NetName=3.3 Pin=STM32-20
+Added Pin To Net: NetName=3.3 Pin=STM32-38
+Added Net: Name=3.3
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P2-3
+Added Pin To Net: NetName=GND Pin=P3-3
+Added Pin To Net: NetName=GND Pin=P4-3
+Added Pin To Net: NetName=GND Pin=P5-2
+Added Pin To Net: NetName=GND Pin=P6-2
+Added Pin To Net: NetName=GND Pin=p7-1
+Added Pin To Net: NetName=GND Pin=p7-4
+Added Pin To Net: NetName=GND Pin=p8-1
+Added Pin To Net: NetName=GND Pin=p8-2
+Added Pin To Net: NetName=GND Pin=P9-1
+Added Pin To Net: NetName=GND Pin=P10-1
+Added Pin To Net: NetName=GND Pin=P11-3
+Added Pin To Net: NetName=GND Pin=P12-3
+Added Pin To Net: NetName=GND Pin=P13-1
+Added Pin To Net: NetName=GND Pin=P14-1
+Added Pin To Net: NetName=GND Pin=P15-1
+Added Pin To Net: NetName=GND Pin=STM32-19
+Added Pin To Net: NetName=GND Pin=STM32-39
+Added Pin To Net: NetName=GND Pin=STM32-40
+Added Net: Name=GND
+Added Pin To Net: NetName=PA0 Pin=P5-1
+Added Pin To Net: NetName=PA0 Pin=STM32-25
+Added Net: Name=PA0
+Added Pin To Net: NetName=PA1 Pin=P6-1
+Added Pin To Net: NetName=PA1 Pin=STM32-26
+Added Net: Name=PA1
+Added Pin To Net: NetName=PA2 Pin=P11-1
+Added Pin To Net: NetName=PA2 Pin=STM32-27
+Added Net: Name=PA2
+Added Pin To Net: NetName=PA3 Pin=P11-2
+Added Pin To Net: NetName=PA3 Pin=STM32-28
+Added Net: Name=PA3
+Added Pin To Net: NetName=PA6 Pin=p7-3
+Added Pin To Net: NetName=PA6 Pin=STM32-31
+Added Net: Name=PA6
+Added Pin To Net: NetName=PA7 Pin=p7-6
+Added Pin To Net: NetName=PA7 Pin=STM32-32
+Added Net: Name=PA7
+Added Pin To Net: NetName=PA9 Pin=P12-2
+Added Pin To Net: NetName=PA9 Pin=STM32-6
+Added Net: Name=PA9
+Added Pin To Net: NetName=PA10 Pin=P12-1
+Added Pin To Net: NetName=PA10 Pin=STM32-7
+Added Net: Name=PA10
+Added Pin To Net: NetName=PB0 Pin=p8-7
+Added Pin To Net: NetName=PB0 Pin=STM32-33
+Added Net: Name=PB0
+Added Pin To Net: NetName=PB1 Pin=p8-8
+Added Pin To Net: NetName=PB1 Pin=STM32-34
+Added Net: Name=PB1
+Added Pin To Net: NetName=PB3 Pin=p8-3
+Added Pin To Net: NetName=PB3 Pin=STM32-11
+Added Net: Name=PB3
+Added Pin To Net: NetName=PB4 Pin=p8-5
+Added Pin To Net: NetName=PB4 Pin=STM32-12
+Added Net: Name=PB4
+Added Pin To Net: NetName=PB5 Pin=p8-4
+Added Pin To Net: NetName=PB5 Pin=STM32-13
+Added Net: Name=PB5
+Added Pin To Net: NetName=PB6 Pin=p8-6
+Added Pin To Net: NetName=PB6 Pin=STM32-14
+Added Net: Name=PB6
+Added Pin To Net: NetName=PB12 Pin=P1-1
+Added Pin To Net: NetName=PB12 Pin=STM32-1
+Added Net: Name=PB12
+Added Pin To Net: NetName=PB13 Pin=P2-1
+Added Pin To Net: NetName=PB13 Pin=STM32-2
+Added Net: Name=PB13
+Added Pin To Net: NetName=PB14 Pin=P3-1
+Added Pin To Net: NetName=PB14 Pin=STM32-3
+Added Net: Name=PB14
+Added Pin To Net: NetName=PB15 Pin=P4-1
+Added Pin To Net: NetName=PB15 Pin=STM32-4
+Added Net: Name=PB15
+Added Pin To Net: NetName=PC13 Pin=P9-2
+Added Pin To Net: NetName=PC13 Pin=STM32-22
+Added Net: Name=PC13
+Added Pin To Net: NetName=PC14 Pin=P10-2
+Added Pin To Net: NetName=PC14 Pin=STM32-23
+Added Net: Name=PC14
+Added Pin To Net: NetName=VCC Pin=P1-2
+Added Pin To Net: NetName=VCC Pin=P2-2
+Added Pin To Net: NetName=VCC Pin=P3-2
+Added Pin To Net: NetName=VCC Pin=P4-2
+Added Pin To Net: NetName=VCC Pin=P5-3
+Added Pin To Net: NetName=VCC Pin=P6-3
+Added Pin To Net: NetName=VCC Pin=p7-2
+Added Pin To Net: NetName=VCC Pin=p7-5
+Added Pin To Net: NetName=VCC Pin=P11-4
+Added Pin To Net: NetName=VCC Pin=P12-4
+Added Pin To Net: NetName=VCC Pin=P13-2
+Added Pin To Net: NetName=VCC Pin=P14-2
+Added Pin To Net: NetName=VCC Pin=P15-2
+Added Pin To Net: NetName=VCC Pin=STM32-18
+Added Net: Name=VCC
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

@@ -1,0 +1,11 @@
+Added Component: Designator=P11(HDR1X3)
+Added Component: Designator=P12(HDR1X3)
+Added Pin To Net: NetName=-15V Pin=P11-1
+Added Pin To Net: NetName=AGND Pin=P11-2
+Added Pin To Net: NetName=+15V Pin=P11-3
+Added Pin To Net: NetName=-15V Pin=P12-1
+Added Pin To Net: NetName=AGND Pin=P12-2
+Added Pin To Net: NetName=+15V Pin=P12-3
+Added Member To Class: ClassName=输出采样部分 Member=Component P11 Header 3
+Added Member To Class: ClassName=输出采样部分 Member=Component P12 Header 3
+Added Room: Name=输出采样部分

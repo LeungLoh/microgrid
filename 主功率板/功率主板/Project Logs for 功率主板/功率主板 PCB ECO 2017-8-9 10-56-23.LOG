@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=U-OUT Pin=P1-1
+Added Component: Designator=P8(tie-in)
+Added Pin To Net: NetName=U-OUT Pin=P8-1
+Added Pin To Net: NetName=UC-OUT Pin=P1-1
+Added Pin To Net: NetName=UC-OUT Pin=P8-2
+Added Net: Name=UC-OUT
+Added Member To Class: ClassName=功率主板 Member=Component P8 Header 2
+Added Room: Name=功率主板

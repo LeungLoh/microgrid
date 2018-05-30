@@ -1,0 +1,5 @@
+Added Component: Designator=P9(tie-in)
+Added Pin To Net: NetName=U-OUT Pin=P9-1
+Added Pin To Net: NetName=UC-OUT Pin=P9-2
+Added Member To Class: ClassName=功率主板 Member=Component P9 Header 2
+Added Room: Name=功率主板

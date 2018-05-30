@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=NetD3_2 Pin=RA3-1
+Removed Pin From Net: NetName=AVCC+5V Pin=RA3-2
+Change Component Library : Designator=LM3 Old Library=电子钟r.SchLib New Library=自建库.IntLib
+Added Component: Designator=RA4(RES)
+Added Pin To Net: NetName=NetCMB1_2 Pin=LM1-1
+Added Pin To Net: NetName=NetCMB1_2 Pin=LM1-2
+Added Pin To Net: NetName=AGND Pin=LM1-4
+Added Pin To Net: NetName=NetCMB1_2 Pin=LM1-5
+Added Pin To Net: NetName=NetCMB1_1 Pin=LM1-6
+Added Pin To Net: NetName=NetD1_2 Pin=LM1-7
+Added Pin To Net: NetName=AVCC+5V Pin=LM1-8
+Added Pin To Net: NetName=NetCMB2_2 Pin=LM2-1
+Added Pin To Net: NetName=NetCMB2_2 Pin=LM2-2
+Added Pin To Net: NetName=AGND Pin=LM2-4
+Added Pin To Net: NetName=NetCMB2_2 Pin=LM2-5
+Added Pin To Net: NetName=NetCMB2_1 Pin=LM2-6
+Added Pin To Net: NetName=NetD2_2 Pin=LM2-7
+Added Pin To Net: NetName=AVCC+5V Pin=LM2-8
+Added Pin To Net: NetName=NetCMB3_2 Pin=LM3-1
+Added Pin To Net: NetName=NetCMB3_2 Pin=LM3-2
+Added Pin To Net: NetName=AGND Pin=LM3-4
+Added Pin To Net: NetName=NetCMB3_2 Pin=LM3-5
+Added Pin To Net: NetName=NetCMB3_1 Pin=LM3-6
+Added Pin To Net: NetName=NetD3_2 Pin=LM3-7
+Added Pin To Net: NetName=AVCC+5V Pin=LM3-8
+Added Pin To Net: NetName=IS Pin=RA3-1
+Added Pin To Net: NetName=NetD2_2 Pin=RA3-2
+Added Pin To Net: NetName=NetD3_2 Pin=RA3-1
+Added Pin To Net: NetName=AVCC+5V Pin=RA3-2
+Added Pin To Net: NetName=NetLM1_3 Pin=LM1-3
+Added Pin To Net: NetName=NetLM1_3 Pin=R5-1
+Added Net: Name=NetLM1_3
+Added Pin To Net: NetName=NetLM2_3 Pin=LM2-3
+Added Pin To Net: NetName=NetLM2_3 Pin=R11-1
+Added Net: Name=NetLM2_3
+Added Pin To Net: NetName=NetLM3_3 Pin=LM3-3
+Added Pin To Net: NetName=NetLM3_3 Pin=R13-1
+Added Net: Name=NetLM3_3
+Added Member To Class: ClassName=输出采样部分 Member=Component RA4 R

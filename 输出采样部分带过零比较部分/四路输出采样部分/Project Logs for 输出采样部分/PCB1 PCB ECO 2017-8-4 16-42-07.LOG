@@ -1,0 +1,9 @@
+Added Component: Designator=RA3(RES)
+Added Component: Designator=RA4(RES)
+Added Pin To Net: NetName=NetD2_2 Pin=RA3-1
+Added Pin To Net: NetName=IS Pin=RA3-2
+Added Pin To Net: NetName=NetD3_2 Pin=RA4-1
+Added Pin To Net: NetName=AVCC+5V Pin=RA4-2
+Added Member To Class: ClassName=输出采样部分 Member=Component RA3 res
+Added Member To Class: ClassName=输出采样部分 Member=Component RA4 4.7K
+Added Room: Name=输出采样部分

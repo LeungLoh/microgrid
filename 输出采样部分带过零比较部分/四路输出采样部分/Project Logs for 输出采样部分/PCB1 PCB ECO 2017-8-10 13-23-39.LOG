@@ -1,0 +1,78 @@
+Removed Pin From Net: NetName=+15V Pin=P7-4
+Removed Pin From Net: NetName=+15V Pin=P7-6
+Removed Pin From Net: NetName=+15V Pin=P7-8
+Removed Pin From Net: NetName=+15V Pin=P7-10
+Removed Pin From Net: NetName=+15V Pin=P7-12
+Removed Pin From Net: NetName=+15V Pin=P7-14
+Removed Pin From Net: NetName=-15V Pin=P8-4
+Removed Pin From Net: NetName=-15V Pin=P8-6
+Removed Pin From Net: NetName=-15V Pin=P8-8
+Removed Pin From Net: NetName=-15V Pin=P8-10
+Removed Pin From Net: NetName=-15V Pin=P8-12
+Removed Pin From Net: NetName=-15V Pin=P8-14
+Removed Pin From Net: NetName=AGND Pin=P9-4
+Removed Pin From Net: NetName=AGND Pin=P9-6
+Removed Pin From Net: NetName=AGND Pin=P9-8
+Removed Pin From Net: NetName=AGND Pin=P9-10
+Removed Pin From Net: NetName=AGND Pin=P9-12
+Removed Pin From Net: NetName=AGND Pin=P9-14
+Change Component Designator: OldDesignator=P? NewDesignator=P15
+Change Component Designator: OldDesignator=P? NewDesignator=P-15
+Change Component Designator: OldDesignator=P? NewDesignator=PGND
+Added Pin To Net: NetName=NetP7_4 Pin=P7-4
+Added Pin To Net: NetName=NetP7_4 Pin=P15-2
+Added Net: Name=NetP7_4
+Added Pin To Net: NetName=NetP7_6 Pin=P7-6
+Added Pin To Net: NetName=NetP7_6 Pin=P15-3
+Added Net: Name=NetP7_6
+Added Pin To Net: NetName=NetP7_8 Pin=P7-8
+Added Pin To Net: NetName=NetP7_8 Pin=P15-4
+Added Net: Name=NetP7_8
+Added Pin To Net: NetName=NetP7_10 Pin=P7-10
+Added Pin To Net: NetName=NetP7_10 Pin=P15-5
+Added Net: Name=NetP7_10
+Added Pin To Net: NetName=NetP7_12 Pin=P7-12
+Added Pin To Net: NetName=NetP7_12 Pin=P15-6
+Added Net: Name=NetP7_12
+Added Pin To Net: NetName=NetP7_14 Pin=P7-14
+Added Pin To Net: NetName=NetP7_14 Pin=P15-7
+Added Net: Name=NetP7_14
+Added Pin To Net: NetName=NetP8_4 Pin=P8-4
+Added Pin To Net: NetName=NetP8_4 Pin=P-15-2
+Added Net: Name=NetP8_4
+Added Pin To Net: NetName=NetP8_6 Pin=P8-6
+Added Pin To Net: NetName=NetP8_6 Pin=P-15-3
+Added Net: Name=NetP8_6
+Added Pin To Net: NetName=NetP8_8 Pin=P8-8
+Added Pin To Net: NetName=NetP8_8 Pin=P-15-4
+Added Net: Name=NetP8_8
+Added Pin To Net: NetName=NetP8_10 Pin=P8-10
+Added Pin To Net: NetName=NetP8_10 Pin=P-15-5
+Added Net: Name=NetP8_10
+Added Pin To Net: NetName=NetP8_12 Pin=P8-12
+Added Pin To Net: NetName=NetP8_12 Pin=P-15-6
+Added Net: Name=NetP8_12
+Added Pin To Net: NetName=NetP8_14 Pin=P8-14
+Added Pin To Net: NetName=NetP8_14 Pin=P-15-7
+Added Net: Name=NetP8_14
+Added Pin To Net: NetName=NetP9_4 Pin=P9-4
+Added Pin To Net: NetName=NetP9_4 Pin=PGND-2
+Added Net: Name=NetP9_4
+Added Pin To Net: NetName=NetP9_6 Pin=P9-6
+Added Pin To Net: NetName=NetP9_6 Pin=PGND-3
+Added Net: Name=NetP9_6
+Added Pin To Net: NetName=NetP9_8 Pin=P9-8
+Added Pin To Net: NetName=NetP9_8 Pin=PGND-4
+Added Net: Name=NetP9_8
+Added Pin To Net: NetName=NetP9_10 Pin=P9-10
+Added Pin To Net: NetName=NetP9_10 Pin=PGND-5
+Added Net: Name=NetP9_10
+Added Pin To Net: NetName=NetP9_12 Pin=P9-12
+Added Pin To Net: NetName=NetP9_12 Pin=PGND-6
+Added Net: Name=NetP9_12
+Added Pin To Net: NetName=NetP9_14 Pin=P9-14
+Added Pin To Net: NetName=NetP9_14 Pin=PGND-7
+Added Net: Name=NetP9_14
+Added Member To Class: ClassName=输出采样部分 Member=Component P-15 Header 7
+Added Member To Class: ClassName=输出采样部分 Member=Component PGND Header 7
+Added Room: Name=输出采样部分

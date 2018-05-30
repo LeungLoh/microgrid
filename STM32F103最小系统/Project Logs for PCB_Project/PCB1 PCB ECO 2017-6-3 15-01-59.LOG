@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=p8-2
+Removed Pin From Net: NetName=PB3 Pin=p8-3
+Removed Pin From Net: NetName=PB5 Pin=p8-4
+Removed Pin From Net: NetName=PB4 Pin=p8-5
+Removed Pin From Net: NetName=PB6 Pin=p8-6
+Removed Pin From Net: NetName=PB0 Pin=p8-7
+Change Component DesignItemId : Designator=p8 Old DesignItemId=Header 4X2 New DesignItemId=Header 4X2A
+Change Component Footprint: Designator=p8 Old Footprint=HDR2X4 New Footprint=HDR2X4_CEN
+Change Component Comment : Designator=p8 Old Comment=Header 4X2 New Comment=Header 4X2A
+Added Pin To Net: NetName=PB3 Pin=p8-2
+Added Pin To Net: NetName=PB4 Pin=p8-3
+Added Pin To Net: NetName=PB0 Pin=p8-4
+Added Pin To Net: NetName=GND Pin=p8-5
+Added Pin To Net: NetName=PB5 Pin=p8-6
+Added Pin To Net: NetName=PB6 Pin=p8-7
+Added Room: Name=Sheet1

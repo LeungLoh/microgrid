@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=VCC Pin=sw-1
+Added Component: Designator=mpu6050(HDR1X6)
+Added Pin To Net: NetName=VCC Pin=mpu6050-1
+Added Pin To Net: NetName=GND Pin=mpu6050-2
+Added Pin To Net: NetName=PA4 Pin=mpu6050-5
+Added Pin To Net: NetName=PA4 Pin=STM32-29
+Added Net: Name=PA4
+Added Pin To Net: NetName=PA15 Pin=STM32-10
+Added Net: Name=PA15
+Added Pin To Net: NetName=PB10 Pin=mpu6050-4
+Added Pin To Net: NetName=PB10 Pin=STM32-35
+Added Net: Name=PB10
+Added Pin To Net: NetName=PB11 Pin=mpu6050-3
+Added Pin To Net: NetName=PB11 Pin=STM32-36
+Added Net: Name=PB11
+Added Member To Class: ClassName=Sheet1 Member=Component mpu6050 Header 6
+Added Room: Name=Sheet1

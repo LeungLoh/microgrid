@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=VRES Pin=RB7-1
+Removed Pin From Net: NetName=NetD3_2 Pin=RB7-2
+Added Component: Designator=LM2(DIP8)
+Added Component: Designator=LM3(DIP8)
+Added Component: Designator=RB11(RES)
+Added Pin To Net: NetName=NetCMB2_2 Pin=LM2-1
+Added Pin To Net: NetName=NetCMB2_2 Pin=LM2-2
+Added Pin To Net: NetName=NetLM2_3 Pin=LM2-3
+Added Pin To Net: NetName=AGND Pin=LM2-4
+Added Pin To Net: NetName=NetCMB2_2 Pin=LM2-5
+Added Pin To Net: NetName=NetCMB2_1 Pin=LM2-6
+Added Pin To Net: NetName=NetD2_2 Pin=LM2-7
+Added Pin To Net: NetName=AVCC+5V Pin=LM2-8
+Added Pin To Net: NetName=NetCMB3_2 Pin=LM3-1
+Added Pin To Net: NetName=NetCMB3_2 Pin=LM3-2
+Added Pin To Net: NetName=NetLM3_3 Pin=LM3-3
+Added Pin To Net: NetName=AGND Pin=LM3-4
+Added Pin To Net: NetName=NetCMB3_2 Pin=LM3-5
+Added Pin To Net: NetName=NetCMB3_1 Pin=LM3-6
+Added Pin To Net: NetName=NetD3_2 Pin=LM3-7
+Added Pin To Net: NetName=AVCC+5V Pin=LM3-8
+Added Pin To Net: NetName=IS Pin=RB7-1
+Added Pin To Net: NetName=NetD2_2 Pin=RB7-2
+Added Pin To Net: NetName=VRES Pin=RB7-1
+Added Pin To Net: NetName=NetD3_2 Pin=RB7-2
+Added Member To Class: ClassName=输出采样部分 Member=Component LM2 LM393
+Added Member To Class: ClassName=输出采样部分 Member=Component LM3 LM393
+Added Member To Class: ClassName=输出采样部分 Member=Component RB11 100
+Added Room: Name=输出采样部分

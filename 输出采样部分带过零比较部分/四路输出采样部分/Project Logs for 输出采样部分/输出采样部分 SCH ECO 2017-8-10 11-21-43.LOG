@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=R2 Old Footprint=ปฌื่ New Footprint=RES
+Change Component Comment: Designator=JP4 Old Comment= New Comment=Header 2
+Change Component Comment: Designator=R2 Old Comment= New Comment=Res2
+Change Component Comment: Designator=JP6 Old Comment=Header 2 New Comment=
+Change Component Designator: OldDesignator=R2 NewDesignator=R6
+Change Component Designator: OldDesignator=R7 NewDesignator=R2
+Change Pin Designator/Name:  Old Designator=P2-2 Old Name=2 New Designator =3 New Name=3

@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=ADVAUT Pin=JP5-2
+Added Pin To Net: NetName=ADVAUT Pin=JP7-2
+Change Net Name : Old Net Name=ADVAUT New Net Name=ADAOUT
+Added Room: Name=输出采样部分

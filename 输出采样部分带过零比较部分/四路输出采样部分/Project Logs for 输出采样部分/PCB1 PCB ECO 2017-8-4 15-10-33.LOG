@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=NetCMB3_2 Pin=LM2-5
+Removed Pin From Net: NetName=NetCMB3_1 Pin=LM2-6
+Removed Pin From Net: NetName=NetD3_2 Pin=LM2-7
+Removed Pin From Net: NetName=NetCMB3_2 Pin=LM3-1
+Removed Pin From Net: NetName=NetCMB3_2 Pin=LM3-2
+Removed Pin From Net: NetName=NetLM3_3 Pin=LM3-3
+Removed Pin From Net: NetName=AGND Pin=LM3-4
+Removed Pin From Net: NetName=AVCC+5V Pin=LM3-8
+Removed Pin From Net: NetName=NetR1_1 Pin=R1-1
+Removed Pin From Net: NetName=NetJP1_2 Pin=R1-2
+Removed Pin From Net: NetName=NetCMB3_1 Pin=RB5-2
+Removed Pin From Net: NetName=NetCMB3_2 Pin=RB6-1
+Removed Pin From Net: NetName=NetD3_2 Pin=RB7-2
+Removed Member From Class: ClassName=输出采样部分 Member=R1
+Added Component: Designator=LM3(DIP8)
+Added Component: Designator=RB9(RES)
+Added Component: Designator=RB10(RES)
+Added Component: Designator=RB11(RES)
+Added Component: Designator=RM(滑阻)
+Added Pin To Net: NetName=NetCMB2_2 Pin=LM2-5
+Added Pin To Net: NetName=NetCMB2_1 Pin=LM2-6
+Added Pin To Net: NetName=NetD2_2 Pin=LM2-7
+Added Pin To Net: NetName=NetCMB3_2 Pin=LM3-1
+Added Pin To Net: NetName=NetCMB3_2 Pin=LM3-2
+Added Pin To Net: NetName=NetLM3_3 Pin=LM3-3
+Added Pin To Net: NetName=AGND Pin=LM3-4
+Added Pin To Net: NetName=NetCMB3_2 Pin=LM2-5
+Added Pin To Net: NetName=NetCMB3_1 Pin=LM2-6
+Added Pin To Net: NetName=NetD3_2 Pin=LM2-7
+Added Pin To Net: NetName=AVCC+5V Pin=LM3-8
+Added Pin To Net: NetName=NetCMB2_1 Pin=RB5-2
+Added Pin To Net: NetName=NetCMB2_2 Pin=RB6-1
+Added Pin To Net: NetName=NetD2_2 Pin=RB7-2
+Added Pin To Net: NetName=AVCC+5V Pin=RB5-1
+Added Pin To Net: NetName=NetCMB3_1 Pin=RB5-2
+Added Pin To Net: NetName=NetCMB3_2 Pin=RB6-1
+Added Pin To Net: NetName=AVCC+5V Pin=RB6-2
+Added Pin To Net: NetName=VRES Pin=RB7-1
+Added Pin To Net: NetName=NetD3_2 Pin=RB7-2
+Added Pin To Net: NetName=NetR1_1 Pin=RM-1
+Added Pin To Net: NetName=NetJP1_2 Pin=RM-2
+Added Pin To Net: NetName=NetJP1_2 Pin=RM-3
+Change Net Name : Old Net Name=NetR1_1 New Net Name=NetRM_1
+Added Member To Class: ClassName=输出采样部分 Member=Component P2 Header 2X2H
+Added Member To Class: ClassName=输出采样部分 Member=Component R12 R
+Added Member To Class: ClassName=输出采样部分 Member=Component RM RPot2
+Added Room: Name=输出采样部分

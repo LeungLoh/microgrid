@@ -1,0 +1,24 @@
+Change Component Designator: OldDesignator=P? NewDesignator=P15
+Change Component Designator: OldDesignator=P? NewDesignator=P-15
+Change Component Designator: OldDesignator=P? NewDesignator=PGND
+Added Pin To Net: NetName=+15V Pin=P15-2
+Added Pin To Net: NetName=+15V Pin=P15-3
+Added Pin To Net: NetName=+15V Pin=P15-4
+Added Pin To Net: NetName=+15V Pin=P15-5
+Added Pin To Net: NetName=+15V Pin=P15-6
+Added Pin To Net: NetName=+15V Pin=P15-7
+Added Pin To Net: NetName=-15V Pin=P-15-2
+Added Pin To Net: NetName=-15V Pin=P-15-3
+Added Pin To Net: NetName=-15V Pin=P-15-4
+Added Pin To Net: NetName=-15V Pin=P-15-5
+Added Pin To Net: NetName=-15V Pin=P-15-6
+Added Pin To Net: NetName=-15V Pin=P-15-7
+Added Pin To Net: NetName=AGND Pin=PGND-2
+Added Pin To Net: NetName=AGND Pin=PGND-3
+Added Pin To Net: NetName=AGND Pin=PGND-4
+Added Pin To Net: NetName=AGND Pin=PGND-5
+Added Pin To Net: NetName=AGND Pin=PGND-6
+Added Pin To Net: NetName=AGND Pin=PGND-7
+Added Member To Class: ClassName=输出采样部分 Member=Component P-15 Header 7
+Added Member To Class: ClassName=输出采样部分 Member=Component PGND Header 7
+Added Room: Name=输出采样部分

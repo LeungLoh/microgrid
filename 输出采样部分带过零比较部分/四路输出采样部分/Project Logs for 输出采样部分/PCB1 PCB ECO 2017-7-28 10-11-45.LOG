@@ -1,0 +1,275 @@
+Added Component: Designator=A1(csm025a)
+Added Component: Designator=C1(CAPR2.54-5.1x3.2)
+Added Component: Designator=C2(CAPR2.54-5.1x3.2)
+Added Component: Designator=C3(CAPR5-4X5)
+Added Component: Designator=C4(CAPR5-4X5)
+Added Component: Designator=C5(CAPR2.54-5.1x3.2)
+Added Component: Designator=C6(CAPR2.54-5.1x3.2)
+Added Component: Designator=CMB1(CAP)
+Added Component: Designator=CMB2(CAP)
+Added Component: Designator=CMB3(CAP)
+Added Component: Designator=CMB4(CAP)
+Added Component: Designator=D1(DIO7.1-3.9x1.9)
+Added Component: Designator=D2(DIO7.1-3.9x1.9)
+Added Component: Designator=JP1(tie-in)
+Added Component: Designator=JP2(HDR1X2)
+Added Component: Designator=JP3(HDR1X3)
+Added Component: Designator=JP4(HDR1X2)
+Added Component: Designator=JP5(HDR1X2)
+Added Component: Designator=JP6(HDR1X2)
+Added Component: Designator=JP7(HDR1X2)
+Added Component: Designator=JP8(tie-in)
+Added Component: Designator=JP9(HDR1X2)
+Added Component: Designator=JP10(tie-in)
+Added Component: Designator=JP11(tie-in)
+Added Component: Designator=LM1(DIP8)
+Added Component: Designator=LM2(DIP8)
+Added Component: Designator=P1(HDR1X3)
+Added Component: Designator=P2(HDR2X2H)
+Added Component: Designator=P3(HDR2X2H)
+Added Component: Designator=P4(tie-in)
+Added Component: Designator=R1(RES)
+Added Component: Designator=R2(RES)
+Added Component: Designator=R3(RES)
+Added Component: Designator=R4(滑阻)
+Added Component: Designator=R5(滑阻)
+Added Component: Designator=R6(RES)
+Added Component: Designator=R7(RES)
+Added Component: Designator=R8(RES)
+Added Component: Designator=R9(滑阻)
+Added Component: Designator=R10(滑阻)
+Added Component: Designator=R11(RES)
+Added Component: Designator=R12(RES)
+Added Component: Designator=R13(RES)
+Added Component: Designator=RB1(RES)
+Added Component: Designator=RB2(RES)
+Added Component: Designator=RB3(RES)
+Added Component: Designator=RB4(RES)
+Added Component: Designator=RB5(RES)
+Added Component: Designator=RB6(RES)
+Added Component: Designator=RB7(RES)
+Added Component: Designator=RB8(RES)
+Added Component: Designator=U1(vsm025a)
+Added Component: Designator=U2(AD637转接板)
+Added Component: Designator=U3(AD637转接板)
+Added Component: Designator=U4(+-15v)
+Added Pin To Net: NetName=NetA1_1 Pin=A1-1
+Added Pin To Net: NetName=NetA1_2 Pin=A1-2
+Added Pin To Net: NetName=NetA1_3 Pin=A1-3
+Added Pin To Net: NetName=NetA1_4 Pin=A1-4
+Added Pin To Net: NetName=NetA1_5 Pin=A1-5
+Added Pin To Net: NetName=NetA1_6 Pin=A1-6
+Added Pin To Net: NetName=NetA1_5 Pin=A1-7
+Added Pin To Net: NetName=NetA1_4 Pin=A1-8
+Added Pin To Net: NetName=NetA1_3 Pin=A1-9
+Added Pin To Net: NetName=NetA1_2 Pin=A1-10
+Added Pin To Net: NetName=+15V Pin=A1-11
+Added Pin To Net: NetName=-15V Pin=A1-12
+Added Pin To Net: NetName=ADAIN Pin=A1-13
+Added Pin To Net: NetName=+15V Pin=C1-1
+Added Pin To Net: NetName=AGND Pin=C1-2
+Added Pin To Net: NetName=AGND Pin=C2-1
+Added Pin To Net: NetName=+15V Pin=C2-2
+Added Pin To Net: NetName=ADVOUT Pin=C3-1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=ADVAUT Pin=C4-1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=AGND Pin=C5-1
+Added Pin To Net: NetName=-15V Pin=C5-2
+Added Pin To Net: NetName=-15V Pin=C6-1
+Added Pin To Net: NetName=AGND Pin=C6-2
+Added Pin To Net: NetName=NetCMB1_1 Pin=CMB1-1
+Added Pin To Net: NetName=NetCMB1_2 Pin=CMB1-2
+Added Pin To Net: NetName=VS Pin=CMB2-1
+Added Pin To Net: NetName=AGND Pin=CMB2-2
+Added Pin To Net: NetName=NetCMB3_1 Pin=CMB3-1
+Added Pin To Net: NetName=NetCMB3_2 Pin=CMB3-2
+Added Pin To Net: NetName=VRES Pin=CMB4-1
+Added Pin To Net: NetName=AGND Pin=CMB4-2
+Added Pin To Net: NetName=AGND Pin=D1-1
+Added Pin To Net: NetName=AGND Pin=D2-1
+Added Pin To Net: NetName=NetJP1_1 Pin=JP1-1
+Added Pin To Net: NetName=NetJP1_2 Pin=JP1-2
+Added Pin To Net: NetName=ADVIN Pin=JP2-1
+Added Pin To Net: NetName=AGND Pin=JP2-2
+Added Pin To Net: NetName=-15V Pin=JP3-1
+Added Pin To Net: NetName=AGND Pin=JP3-2
+Added Pin To Net: NetName=+15V Pin=JP3-3
+Added Pin To Net: NetName=AGND Pin=JP4-1
+Added Pin To Net: NetName=ADVOUT Pin=JP4-2
+Added Pin To Net: NetName=AGND Pin=JP5-1
+Added Pin To Net: NetName=ADAOUT Pin=JP5-2
+Added Pin To Net: NetName=AGND Pin=JP6-1
+Added Pin To Net: NetName=ADVOUT Pin=JP6-2
+Added Pin To Net: NetName=AGND Pin=JP7-1
+Added Pin To Net: NetName=ADAOUT Pin=JP7-2
+Added Pin To Net: NetName=NetA1_6 Pin=JP8-1
+Added Pin To Net: NetName=NetA1_1 Pin=JP8-2
+Added Pin To Net: NetName=ADAIN Pin=JP9-1
+Added Pin To Net: NetName=AGND Pin=JP9-2
+Added Pin To Net: NetName=GND Pin=JP10-1
+Added Pin To Net: NetName=VCC Pin=JP10-2
+Added Pin To Net: NetName=AGND Pin=JP11-1
+Added Pin To Net: NetName=AVCC+5V Pin=JP11-2
+Added Pin To Net: NetName=NetCMB1_2 Pin=LM1-1
+Added Pin To Net: NetName=NetCMB1_2 Pin=LM1-2
+Added Pin To Net: NetName=NetLM1_3 Pin=LM1-3
+Added Pin To Net: NetName=AGND Pin=LM1-4
+Added Pin To Net: NetName=NetCMB1_2 Pin=LM1-5
+Added Pin To Net: NetName=NetCMB1_1 Pin=LM1-6
+Added Pin To Net: NetName=NetD1_3 Pin=LM1-7
+Added Pin To Net: NetName=AVCC+5V Pin=LM1-8
+Added Pin To Net: NetName=NetCMB3_2 Pin=LM2-1
+Added Pin To Net: NetName=NetCMB3_2 Pin=LM2-2
+Added Pin To Net: NetName=NetLM2_3 Pin=LM2-3
+Added Pin To Net: NetName=AGND Pin=LM2-4
+Added Pin To Net: NetName=NetCMB3_2 Pin=LM2-5
+Added Pin To Net: NetName=NetCMB3_1 Pin=LM2-6
+Added Pin To Net: NetName=NetD2_3 Pin=LM2-7
+Added Pin To Net: NetName=AVCC+5V Pin=LM2-8
+Added Pin To Net: NetName=+15V Pin=P1-1
+Added Pin To Net: NetName=AGND Pin=P1-2
+Added Pin To Net: NetName=-15V Pin=P1-3
+Added Pin To Net: NetName=VS Pin=P2-1
+Added Pin To Net: NetName=VS Pin=P2-2
+Added Pin To Net: NetName=AGND Pin=P2-3
+Added Pin To Net: NetName=AGND Pin=P2-4
+Added Pin To Net: NetName=VRES Pin=P3-1
+Added Pin To Net: NetName=VRES Pin=P3-2
+Added Pin To Net: NetName=AGND Pin=P3-3
+Added Pin To Net: NetName=AGND Pin=P3-4
+Added Pin To Net: NetName=AGND Pin=P4-1
+Added Pin To Net: NetName=REFVIN Pin=P4-2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetJP1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=ADVIN Pin=R2-2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=ADAIN Pin=R3-2
+Added Pin To Net: NetName=-15V Pin=R4-1
+Added Pin To Net: NetName=+15V Pin=R4-2
+Added Pin To Net: NetName=NetR4_3 Pin=R4-3
+Added Pin To Net: NetName=-15V Pin=R5-1
+Added Pin To Net: NetName=+15V Pin=R5-2
+Added Pin To Net: NetName=NetR5_3 Pin=R5-3
+Added Pin To Net: NetName=NetR4_3 Pin=R6-1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR5_3 Pin=R7-1
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=AGND Pin=R8-1
+Added Pin To Net: NetName=ADVIN Pin=R8-2
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=ADVOUT Pin=R9-2
+Added Pin To Net: NetName=ADVOUT Pin=R9-3
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=ADVAUT Pin=R10-2
+Added Pin To Net: NetName=ADVAUT Pin=R10-3
+Added Pin To Net: NetName=AGND Pin=R11-1
+Added Pin To Net: NetName=ADAIN Pin=R11-2
+Added Pin To Net: NetName=NetLM1_3 Pin=R12-1
+Added Pin To Net: NetName=ADVIN Pin=R12-2
+Added Pin To Net: NetName=NetLM2_3 Pin=R13-1
+Added Pin To Net: NetName=REFVIN Pin=R13-2
+Added Pin To Net: NetName=AVCC+5V Pin=RB1-1
+Added Pin To Net: NetName=NetCMB1_1 Pin=RB1-2
+Added Pin To Net: NetName=NetCMB1_2 Pin=RB2-1
+Added Pin To Net: NetName=AVCC+5V Pin=RB2-2
+Added Pin To Net: NetName=VS Pin=RB3-1
+Added Pin To Net: NetName=NetD1_3 Pin=RB3-2
+Added Pin To Net: NetName=AGND Pin=RB4-1
+Added Pin To Net: NetName=NetCMB1_1 Pin=RB4-2
+Added Pin To Net: NetName=AVCC+5V Pin=RB5-1
+Added Pin To Net: NetName=NetCMB3_1 Pin=RB5-2
+Added Pin To Net: NetName=NetCMB3_2 Pin=RB6-1
+Added Pin To Net: NetName=AVCC+5V Pin=RB6-2
+Added Pin To Net: NetName=VRES Pin=RB7-1
+Added Pin To Net: NetName=NetD2_3 Pin=RB7-2
+Added Pin To Net: NetName=AGND Pin=RB8-1
+Added Pin To Net: NetName=NetCMB3_1 Pin=RB8-2
+Added Pin To Net: NetName=NetR1_1 Pin=U1-1
+Added Pin To Net: NetName=NetJP1_1 Pin=U1-2
+Added Pin To Net: NetName=+15V Pin=U1-3
+Added Pin To Net: NetName=-15V Pin=U1-4
+Added Pin To Net: NetName=ADVIN Pin=U1-5
+Added Pin To Net: NetName=AGND Pin=U2-1
+Added Pin To Net: NetName=AGND Pin=U2-3
+Added Pin To Net: NetName=NetR6_2 Pin=U2-4
+Added Pin To Net: NetName=NetR9_1 Pin=U2-6
+Added Pin To Net: NetName=NetC3_2 Pin=U2-10
+Added Pin To Net: NetName=ADVOUT Pin=U2-11
+Added Pin To Net: NetName=-15V Pin=U2-12
+Added Pin To Net: NetName=+15V Pin=U2-13
+Added Pin To Net: NetName=NetR2_1 Pin=U2-15
+Added Pin To Net: NetName=AGND Pin=U3-1
+Added Pin To Net: NetName=AGND Pin=U3-3
+Added Pin To Net: NetName=NetR7_2 Pin=U3-4
+Added Pin To Net: NetName=NetR10_1 Pin=U3-6
+Added Pin To Net: NetName=NetC4_2 Pin=U3-10
+Added Pin To Net: NetName=ADVAUT Pin=U3-11
+Added Pin To Net: NetName=-15V Pin=U3-12
+Added Pin To Net: NetName=+15V Pin=U3-13
+Added Pin To Net: NetName=NetR3_1 Pin=U3-15
+Added Pin To Net: NetName=VCC Pin=U4-1
+Added Pin To Net: NetName=VCC Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=+15V Pin=U4-3
+Added Pin To Net: NetName=AGND Pin=U4-4
+Added Pin To Net: NetName=AGND Pin=U4-4
+Added Pin To Net: NetName=-15V Pin=U4-5
+Added Member To Class: ClassName=输出采样部分 Member=Component A1 CSM025A
+Added Member To Class: ClassName=输出采样部分 Member=Component C1 Cap Pol2
+Added Member To Class: ClassName=输出采样部分 Member=Component C2 Cap
+Added Member To Class: ClassName=输出采样部分 Member=Component C3 47uF
+Added Member To Class: ClassName=输出采样部分 Member=Component C4 47uF
+Added Member To Class: ClassName=输出采样部分 Member=Component C5 Cap Pol2
+Added Member To Class: ClassName=输出采样部分 Member=Component C6 Cap
+Added Member To Class: ClassName=输出采样部分 Member=Component CMB1 C
+Added Member To Class: ClassName=输出采样部分 Member=Component CMB2 471
+Added Member To Class: ClassName=输出采样部分 Member=Component CMB3 C
+Added Member To Class: ClassName=输出采样部分 Member=Component CMB4 471
+Added Member To Class: ClassName=输出采样部分 Member=Component D1 3v3
+Added Member To Class: ClassName=输出采样部分 Member=Component D2 3v3
+Added Member To Class: ClassName=输出采样部分 Member=Component JP1 Header 2
+Added Member To Class: ClassName=输出采样部分 Member=Component JP2 Header 2
+Added Member To Class: ClassName=输出采样部分 Member=Component JP3 Header 3
+Added Member To Class: ClassName=输出采样部分 Member=Component JP4 Header 2
+Added Member To Class: ClassName=输出采样部分 Member=Component JP5 Header 2
+Added Member To Class: ClassName=输出采样部分 Member=Component JP6 
+Added Member To Class: ClassName=输出采样部分 Member=Component JP7 
+Added Member To Class: ClassName=输出采样部分 Member=Component JP8 Header 2
+Added Member To Class: ClassName=输出采样部分 Member=Component JP9 Header 2
+Added Member To Class: ClassName=输出采样部分 Member=Component JP10 
+Added Member To Class: ClassName=输出采样部分 Member=Component JP11 
+Added Member To Class: ClassName=输出采样部分 Member=Component LM1 LM393
+Added Member To Class: ClassName=输出采样部分 Member=Component LM2 LM393
+Added Member To Class: ClassName=输出采样部分 Member=Component P1 Header 3
+Added Member To Class: ClassName=输出采样部分 Member=Component P2 Header 2X2H
+Added Member To Class: ClassName=输出采样部分 Member=Component P3 Header 2X2H
+Added Member To Class: ClassName=输出采样部分 Member=Component P4 REFVIN
+Added Member To Class: ClassName=输出采样部分 Member=Component R1 5k
+Added Member To Class: ClassName=输出采样部分 Member=Component R2 147
+Added Member To Class: ClassName=输出采样部分 Member=Component R3 147
+Added Member To Class: ClassName=输出采样部分 Member=Component R4 RPot2
+Added Member To Class: ClassName=输出采样部分 Member=Component R5 RPot2
+Added Member To Class: ClassName=输出采样部分 Member=Component R6 1M
+Added Member To Class: ClassName=输出采样部分 Member=Component R7 1M
+Added Member To Class: ClassName=输出采样部分 Member=Component R8 Res2
+Added Member To Class: ClassName=输出采样部分 Member=Component R9 
+Added Member To Class: ClassName=输出采样部分 Member=Component R10 
+Added Member To Class: ClassName=输出采样部分 Member=Component R11 Res2
+Added Member To Class: ClassName=输出采样部分 Member=Component R12 R
+Added Member To Class: ClassName=输出采样部分 Member=Component R13 R
+Added Member To Class: ClassName=输出采样部分 Member=Component RB1 R
+Added Member To Class: ClassName=输出采样部分 Member=Component RB2 R
+Added Member To Class: ClassName=输出采样部分 Member=Component RB3 100
+Added Member To Class: ClassName=输出采样部分 Member=Component RB4 R
+Added Member To Class: ClassName=输出采样部分 Member=Component RB5 R
+Added Member To Class: ClassName=输出采样部分 Member=Component RB6 R
+Added Member To Class: ClassName=输出采样部分 Member=Component RB7 100
+Added Member To Class: ClassName=输出采样部分 Member=Component RB8 R
+Added Member To Class: ClassName=输出采样部分 Member=Component U1 VSM025A
+Added Member To Class: ClassName=输出采样部分 Member=Component U2 AD637
+Added Member To Class: ClassName=输出采样部分 Member=Component U3 AD637
+Added Member To Class: ClassName=输出采样部分 Member=Component U4 +-15V电源
+Added Room: Name=输出采样部分

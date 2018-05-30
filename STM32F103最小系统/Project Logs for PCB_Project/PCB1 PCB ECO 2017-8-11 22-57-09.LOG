@@ -1,0 +1,5 @@
+Added Component: Designator=U1IN(tie-in)
+Added Pin To Net: NetName=GND Pin=U1IN-1
+Added Pin To Net: NetName=NetU1_1 Pin=U1IN-2
+Added Member To Class: ClassName=Sheet1 Member=Component U1IN Header 2
+Added Room: Name=Sheet1

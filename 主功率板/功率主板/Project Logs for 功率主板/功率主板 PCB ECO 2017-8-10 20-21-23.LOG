@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=N-OUT Pin=C2-1
+Removed Pin From Net: NetName=N-OUT Pin=C3-1
+Removed Pin From Net: NetName=N-OUT Pin=C4-1
+Removed Pin From Net: NetName=Net*1_1 Pin=Designator3-1
+Removed Pin From Net: NetName=Net*1_1 Pin=Designator3-2
+Removed Pin From Net: NetName=NetQ1_1 Pin=Designator3-3
+Removed Pin From Net: NetName=NetQ1_1 Pin=Designator3-4
+Removed Pin From Net: NetName=NetQ4_1 Pin=Designator3-5
+Removed Pin From Net: NetName=NetQ4_1 Pin=Designator3-6
+Removed Pin From Net: NetName=Net*2_1 Pin=Designator4-1
+Removed Pin From Net: NetName=Net*2_1 Pin=Designator4-2
+Removed Pin From Net: NetName=NetQ2_1 Pin=Designator4-3
+Removed Pin From Net: NetName=NetQ2_1 Pin=Designator4-4
+Removed Pin From Net: NetName=NetQ5_1 Pin=Designator4-5
+Removed Pin From Net: NetName=NetQ5_1 Pin=Designator4-6
+Removed Pin From Net: NetName=Net*3_1 Pin=Designator5-1
+Removed Pin From Net: NetName=Net*3_1 Pin=Designator5-2
+Removed Pin From Net: NetName=NetQ3_1 Pin=Designator5-3
+Removed Pin From Net: NetName=NetQ3_1 Pin=Designator5-4
+Removed Pin From Net: NetName=NetQ6_1 Pin=Designator5-5
+Removed Pin From Net: NetName=NetQ6_1 Pin=Designator5-6
+Removed Pin From Net: NetName=NetQ4_1 Pin=Designator6-1
+Removed Pin From Net: NetName=NetQ4_1 Pin=Designator6-2
+Removed Pin From Net: NetName=NetQ5_1 Pin=Designator7-1
+Removed Pin From Net: NetName=NetQ5_1 Pin=Designator7-2
+Removed Pin From Net: NetName=NetQ6_1 Pin=Designator8-1
+Removed Pin From Net: NetName=NetQ6_1 Pin=Designator8-2
+Removed Pin From Net: NetName=NetQ1_1 Pin=Designator9-1
+Removed Pin From Net: NetName=NetQ1_1 Pin=Designator9-2
+Removed Pin From Net: NetName=Net*1_1 Pin=Designator10-1
+Removed Pin From Net: NetName=Net*1_1 Pin=Designator10-2
+Removed Pin From Net: NetName=NetQ2_1 Pin=Designator11-1
+Removed Pin From Net: NetName=NetQ2_1 Pin=Designator11-2
+Removed Pin From Net: NetName=Net*2_1 Pin=Designator12-1
+Removed Pin From Net: NetName=Net*2_1 Pin=Designator12-2
+Removed Pin From Net: NetName=NetQ3_1 Pin=Designator13-1
+Removed Pin From Net: NetName=NetQ3_1 Pin=Designator13-2
+Removed Pin From Net: NetName=Net*3_1 Pin=Designator14-1
+Removed Pin From Net: NetName=Net*3_1 Pin=Designator14-2
+Added Component: Designator=*1(tie-in)
+Added Component: Designator=*2(tie-in)
+Added Component: Designator=*3(tie-in)
+Added Pin To Net: NetName=Net*1_1 Pin=*1-1
+Added Pin To Net: NetName=U-OUT Pin=*1-2
+Added Pin To Net: NetName=Net*2_1 Pin=*2-1
+Added Pin To Net: NetName=V-OUT Pin=*2-2
+Added Pin To Net: NetName=Net*3_1 Pin=*3-1
+Added Pin To Net: NetName=W-OUT Pin=*3-2
+Added Pin To Net: NetName=V-OUT Pin=C2-1
+Added Pin To Net: NetName=W-OUT Pin=C3-1
+Added Pin To Net: NetName=U-OUT Pin=C4-1
+Added Member To Class: ClassName=功率主板 Member=Component *1 大电感
+Added Member To Class: ClassName=功率主板 Member=Component *2 大电感
+Added Member To Class: ClassName=功率主板 Member=Component *3 大电感
+Added Room: Name=功率主板

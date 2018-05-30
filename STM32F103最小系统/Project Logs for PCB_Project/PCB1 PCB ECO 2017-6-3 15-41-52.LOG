@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=PB12 Pin=P1-1
+Removed Pin From Net: NetName=PB13 Pin=P2-1
+Removed Pin From Net: NetName=PB14 Pin=P3-1
+Removed Pin From Net: NetName=PB15 Pin=P4-1
+Removed Pin From Net: NetName=VCC Pin=sw-1
+Added Component: Designator=R1(AXIAL-0.4)
+Added Component: Designator=R2(AXIAL-0.4)
+Added Component: Designator=R3(AXIAL-0.4)
+Added Component: Designator=R4(AXIAL-0.4)
+Added Pin To Net: NetName=PB12 Pin=R1-2
+Added Pin To Net: NetName=PB13 Pin=R2-2
+Added Pin To Net: NetName=PB14 Pin=R3-2
+Added Pin To Net: NetName=PB15 Pin=R4-2
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Pin To Net: NetName=NetP1_1 Pin=R1-1
+Added Net: Name=NetP1_1
+Added Pin To Net: NetName=NetP2_1 Pin=P2-1
+Added Pin To Net: NetName=NetP2_1 Pin=R2-1
+Added Net: Name=NetP2_1
+Added Pin To Net: NetName=NetP3_1 Pin=P3-1
+Added Pin To Net: NetName=NetP3_1 Pin=R3-1
+Added Net: Name=NetP3_1
+Added Pin To Net: NetName=NetP4_1 Pin=P4-1
+Added Pin To Net: NetName=NetP4_1 Pin=R4-1
+Added Net: Name=NetP4_1
+Added Member To Class: ClassName=Sheet1 Member=Component R1 Res2
+Added Member To Class: ClassName=Sheet1 Member=Component R2 Res2
+Added Member To Class: ClassName=Sheet1 Member=Component R3 Res2
+Added Member To Class: ClassName=Sheet1 Member=Component R4 Res2
+Added Room: Name=Sheet1

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=PA1 Pin=捕获-1
+Removed Pin From Net: NetName=PA2 Pin=捕获-3
+Added Pin To Net: NetName=PA7 Pin=PWM-2
+Added Pin To Net: NetName=PB0 Pin=PWM-4
+Added Pin To Net: NetName=PB1 Pin=PWM-6
+Added Pin To Net: NetName=PB8 Pin=捕获-1
+Added Pin To Net: NetName=PB8 Pin=捕获-2
+Added Pin To Net: NetName=PB9 Pin=捕获-3
+Added Pin To Net: NetName=PB9 Pin=捕获-4
+Added Room: Name=Sheet1

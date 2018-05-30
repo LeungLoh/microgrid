@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=-15V Pin=P11-1
+Removed Pin From Net: NetName=AGND Pin=P11-2
+Removed Pin From Net: NetName=-15V Pin=P12-1
+Removed Pin From Net: NetName=+15V Pin=P12-3
+Change Component DesignItemId : Designator=P11 Old DesignItemId=Header 3 New DesignItemId=Header 5
+Change Component DesignItemId : Designator=P12 Old DesignItemId=Header 3 New DesignItemId=Header 5
+Change Component Footprint: Designator=P11 Old Footprint=HDR1X3 New Footprint=HDR1X5
+Change Component Footprint: Designator=P12 Old Footprint=HDR1X3 New Footprint=HDR1X5
+Change Component Comment : Designator=P11 Old Comment=Header 3 New Comment=Header 5
+Change Component Comment : Designator=P12 Old Comment=Header 3 New Comment=Header 5
+Added Component: Designator=P13(HDR1X5)
+Added Pin To Net: NetName=+15V Pin=P11-1
+Added Pin To Net: NetName=+15V Pin=P11-2
+Added Pin To Net: NetName=+15V Pin=P11-4
+Added Pin To Net: NetName=+15V Pin=P11-5
+Added Pin To Net: NetName=AGND Pin=P12-1
+Added Pin To Net: NetName=AGND Pin=P12-3
+Added Pin To Net: NetName=AGND Pin=P12-4
+Added Pin To Net: NetName=AGND Pin=P12-5
+Added Pin To Net: NetName=-15V Pin=P13-1
+Added Pin To Net: NetName=-15V Pin=P13-2
+Added Pin To Net: NetName=-15V Pin=P13-3
+Added Pin To Net: NetName=-15V Pin=P13-4
+Added Pin To Net: NetName=-15V Pin=P13-5
+Added Member To Class: ClassName=输出采样部分 Member=Component P13 Header 5
+Added Room: Name=输出采样部分

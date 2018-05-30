@@ -1,0 +1,107 @@
+Removed Pin From Net: NetName=VS Pin=CMB2-1
+Removed Pin From Net: NetName=AGND Pin=CMB2-2
+Removed Pin From Net: NetName=NetCMB3_1 Pin=CMB3-1
+Removed Pin From Net: NetName=NetCMB3_2 Pin=CMB3-2
+Removed Pin From Net: NetName=VRES Pin=CMB4-1
+Removed Pin From Net: NetName=AGND Pin=CMB4-2
+Removed Pin From Net: NetName=NetLM2_3 Pin=R13-1
+Removed Pin From Net: NetName=VRES Pin=RB7-1
+Removed Member From Class: ClassName=输出采样部分 Member=CMB4
+Change Component DesignItemId : Designator=RB4 Old DesignItemId=R New DesignItemId=RPot
+Change Component DesignItemId : Designator=RB8 Old DesignItemId=R New DesignItemId=RPot
+Change Component Footprint: Designator=RB4 Old Footprint=RES New Footprint=VR5
+Change Component Footprint: Designator=RB8 Old Footprint=RES New Footprint=VR5
+Change Component Comment : Designator=CMB2 Old Comment=471 New Comment=C
+Change Component Comment : Designator=RB4 Old Comment=R New Comment=504
+Change Component Comment : Designator=RB8 Old Comment=R New Comment=504
+Change Component Designator: OldDesignator=C1 NewDesignator=C3
+Change Component Designator: OldDesignator=C2 NewDesignator=C4
+Change Component Designator: OldDesignator=C3 NewDesignator=C1
+Change Component Designator: OldDesignator=C4 NewDesignator=C2
+Change Component Designator: OldDesignator=JP3 NewDesignator=JP10
+Change Component Designator: OldDesignator=JP4 NewDesignator=JP3
+Change Component Designator: OldDesignator=JP5 NewDesignator=JP7
+Change Component Designator: OldDesignator=JP6 NewDesignator=JP4
+Change Component Designator: OldDesignator=JP7 NewDesignator=JP8
+Change Component Designator: OldDesignator=JP8 NewDesignator=JP5
+Change Component Designator: OldDesignator=JP9 NewDesignator=JP6
+Change Component Designator: OldDesignator=JP10 NewDesignator=JP9
+Change Component Designator: OldDesignator=P1 NewDesignator=P5
+Change Component Designator: OldDesignator=P2 NewDesignator=P1
+Change Component Designator: OldDesignator=R3 NewDesignator=R9
+Change Component Designator: OldDesignator=R4 NewDesignator=R3
+Change Component Designator: OldDesignator=R5 NewDesignator=R10
+Change Component Designator: OldDesignator=R6 NewDesignator=R4
+Change Component Designator: OldDesignator=R7 NewDesignator=R11
+Change Component Designator: OldDesignator=R8 NewDesignator=R5
+Change Component Designator: OldDesignator=R9 NewDesignator=R7
+Change Component Designator: OldDesignator=R10 NewDesignator=R13
+Change Component Designator: OldDesignator=R11 NewDesignator=R8
+Change Component Designator: OldDesignator=R12 NewDesignator=R6
+Change Component Designator: OldDesignator=R13 NewDesignator=R14
+Added Component: Designator=D3(DIO7.1-3.9x1.9)
+Added Component: Designator=LM3(DIP8)
+Added Component: Designator=P2(HDR2X2H)
+Added Component: Designator=R12(RES)
+Added Component: Designator=RB9(RES)
+Added Component: Designator=RB10(RES)
+Added Component: Designator=RB11(RES)
+Added Component: Designator=RB12(VR5)
+Added Pin To Net: NetName=NetCMB3_1 Pin=CMB2-1
+Added Pin To Net: NetName=NetCMB3_2 Pin=CMB2-2
+Added Pin To Net: NetName=AGND Pin=D3-1
+Added Pin To Net: NetName=AGND Pin=LM3-4
+Added Pin To Net: NetName=AVCC+5V Pin=LM3-8
+Added Pin To Net: NetName=AGND Pin=P2-3
+Added Pin To Net: NetName=AGND Pin=P2-4
+Added Pin To Net: NetName=NetLM2_3 Pin=R12-1
+Added Pin To Net: NetName=ADAIN Pin=R12-2
+Added Pin To Net: NetName=AGND Pin=RB4-3
+Added Pin To Net: NetName=AGND Pin=RB8-3
+Added Pin To Net: NetName=AVCC+5V Pin=RB5-1
+Added Pin To Net: NetName=AVCC+5V Pin=RB6-2
+Added Pin To Net: NetName=VRES Pin=RB7-1
+Added Pin To Net: NetName=AGND Pin=RB12-1
+Added Pin To Net: NetName=AGND Pin=RB12-3
+Change Net Name : Old Net Name=NetC3_2 New Net Name=NetC1_2
+Change Net Name : Old Net Name=NetC4_2 New Net Name=NetC2_2
+Change Net Name : Old Net Name=NetCMB3_1 New Net Name=NetCMB2_1
+Change Net Name : Old Net Name=NetCMB3_2 New Net Name=NetCMB2_2
+Change Net Name : Old Net Name=NetR3_1 New Net Name=NetR9_1
+Change Net Name : Old Net Name=NetR4_3 New Net Name=NetR3_3
+Change Net Name : Old Net Name=NetR5_3 New Net Name=NetR10_3
+Change Net Name : Old Net Name=NetR6_2 New Net Name=NetR4_2
+Change Net Name : Old Net Name=NetR7_2 New Net Name=NetR11_2
+Change Net Name : Old Net Name=NetR9_1 New Net Name=NetR7_1
+Change Net Name : Old Net Name=NetR10_1 New Net Name=NetR13_1
+Added Pin To Net: NetName=IS Pin=P2-1
+Added Pin To Net: NetName=IS Pin=P2-2
+Added Pin To Net: NetName=IS Pin=RB7-1
+Added Net: Name=IS
+Added Pin To Net: NetName=NetCMB3_1 Pin=CMB3-1
+Added Pin To Net: NetName=NetCMB3_1 Pin=LM2-6
+Added Pin To Net: NetName=NetCMB3_1 Pin=RB5-2
+Added Pin To Net: NetName=NetCMB3_1 Pin=RB12-2
+Added Net: Name=NetCMB3_1
+Added Pin To Net: NetName=NetCMB3_2 Pin=CMB3-2
+Added Pin To Net: NetName=NetCMB3_2 Pin=LM3-1
+Added Pin To Net: NetName=NetCMB3_2 Pin=LM3-2
+Added Pin To Net: NetName=NetCMB3_2 Pin=LM2-5
+Added Pin To Net: NetName=NetCMB3_2 Pin=RB6-1
+Added Net: Name=NetCMB3_2
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=LM2-7
+Added Pin To Net: NetName=NetD3_2 Pin=RB7-2
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetLM3_3 Pin=LM3-3
+Added Pin To Net: NetName=NetLM3_3 Pin=R14-1
+Added Net: Name=NetLM3_3
+Added Member To Class: ClassName=输出采样部分 Member=Component D3 3v3
+Added Member To Class: ClassName=输出采样部分 Member=Component LM3 LM393
+Added Member To Class: ClassName=输出采样部分 Member=Component P5 Header 3
+Added Member To Class: ClassName=输出采样部分 Member=Component R14 R
+Added Member To Class: ClassName=输出采样部分 Member=Component RB9 R
+Added Member To Class: ClassName=输出采样部分 Member=Component RB10 R
+Added Member To Class: ClassName=输出采样部分 Member=Component RB11 100
+Added Member To Class: ClassName=输出采样部分 Member=Component RB12 504
+Added Room: Name=输出采样部分

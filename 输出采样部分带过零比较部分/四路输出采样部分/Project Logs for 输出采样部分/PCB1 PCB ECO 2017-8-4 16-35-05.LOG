@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VRES Pin=RB7-1
+Removed Pin From Net: NetName=NetD3_2 Pin=RB7-2
+Added Component: Designator=RB11(RES)
+Added Pin To Net: NetName=IS Pin=RB7-1
+Added Pin To Net: NetName=NetD2_2 Pin=RB7-2
+Added Pin To Net: NetName=VRES Pin=RB7-1
+Added Pin To Net: NetName=NetD3_2 Pin=RB7-2
+Added Member To Class: ClassName=输出采样部分 Member=Component RB11 100
+Added Room: Name=输出采样部分

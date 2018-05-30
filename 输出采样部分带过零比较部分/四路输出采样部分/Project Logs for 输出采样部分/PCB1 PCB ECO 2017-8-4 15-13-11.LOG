@@ -1,0 +1,53 @@
+Removed Pin From Net: NetName=NetCMB3_2 Pin=LM2-5
+Removed Pin From Net: NetName=NetCMB3_1 Pin=LM2-6
+Removed Pin From Net: NetName=NetD3_2 Pin=LM2-7
+Removed Pin From Net: NetName=NetCMB3_2 Pin=LM3-1
+Removed Pin From Net: NetName=NetCMB3_2 Pin=LM3-2
+Removed Pin From Net: NetName=NetLM3_3 Pin=LM3-3
+Removed Pin From Net: NetName=AGND Pin=LM3-4
+Removed Pin From Net: NetName=AVCC+5V Pin=LM3-8
+Removed Pin From Net: NetName=NetCMB3_1 Pin=RB5-2
+Removed Pin From Net: NetName=NetCMB3_2 Pin=RB6-1
+Removed Pin From Net: NetName=VRES Pin=RB7-1
+Removed Pin From Net: NetName=NetD3_2 Pin=RB7-2
+Added Component: Designator=LM3(DIP8)
+Added Component: Designator=RA1(RES)
+Added Component: Designator=RA2(RES)
+Added Component: Designator=RA3(RES)
+Added Component: Designator=RB9(RES)
+Added Component: Designator=RB10(RES)
+Added Component: Designator=RB11(RES)
+Added Pin To Net: NetName=NetCMB2_2 Pin=LM2-5
+Added Pin To Net: NetName=NetCMB2_1 Pin=LM2-6
+Added Pin To Net: NetName=NetD2_2 Pin=LM2-7
+Added Pin To Net: NetName=NetCMB3_2 Pin=LM3-1
+Added Pin To Net: NetName=NetCMB3_2 Pin=LM3-2
+Added Pin To Net: NetName=NetLM3_3 Pin=LM3-3
+Added Pin To Net: NetName=AGND Pin=LM3-4
+Added Pin To Net: NetName=NetCMB3_2 Pin=LM2-5
+Added Pin To Net: NetName=NetCMB3_1 Pin=LM2-6
+Added Pin To Net: NetName=NetD3_2 Pin=LM2-7
+Added Pin To Net: NetName=AVCC+5V Pin=LM3-8
+Added Pin To Net: NetName=NetD1_2 Pin=RA1-1
+Added Pin To Net: NetName=AVCC+5V Pin=RA1-2
+Added Pin To Net: NetName=NetD2_2 Pin=RA2-1
+Added Pin To Net: NetName=AVCC+5V Pin=RA2-2
+Added Pin To Net: NetName=NetD3_2 Pin=RA3-1
+Added Pin To Net: NetName=AVCC+5V Pin=RA3-2
+Added Pin To Net: NetName=NetCMB2_1 Pin=RB5-2
+Added Pin To Net: NetName=NetCMB2_2 Pin=RB6-1
+Added Pin To Net: NetName=IS Pin=RB7-1
+Added Pin To Net: NetName=NetD2_2 Pin=RB7-2
+Added Pin To Net: NetName=AVCC+5V Pin=RB5-1
+Added Pin To Net: NetName=NetCMB3_1 Pin=RB5-2
+Added Pin To Net: NetName=NetCMB3_2 Pin=RB6-1
+Added Pin To Net: NetName=AVCC+5V Pin=RB6-2
+Added Pin To Net: NetName=VRES Pin=RB7-1
+Added Pin To Net: NetName=NetD3_2 Pin=RB7-2
+Added Member To Class: ClassName=输出采样部分 Member=Component LM3 LM393
+Added Member To Class: ClassName=输出采样部分 Member=Component RA1 R
+Added Member To Class: ClassName=输出采样部分 Member=Component RA2 R
+Added Member To Class: ClassName=输出采样部分 Member=Component RA3 R
+Added Member To Class: ClassName=输出采样部分 Member=Component RB9 R
+Added Member To Class: ClassName=输出采样部分 Member=Component RB10 R
+Added Member To Class: ClassName=输出采样部分 Member=Component RB11 100
